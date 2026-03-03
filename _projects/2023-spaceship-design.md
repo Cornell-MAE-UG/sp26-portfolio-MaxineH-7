@@ -6,7 +6,7 @@ technologies: [None]
 image: /assets/images/Nutcrackerpic.jpeg
 ---
 
-![Please let it be here.](Nutcrackerpic.jpeg)
+![I Tried :(](Nutcrackerpic.jpeg)
 
 The goal for this project was to develop a nutcracker that would be capable of cracking a macadamia nut using only grip strength. This would require a device capable of multiplying the force applied by the hand enough to crush the nut.
 
