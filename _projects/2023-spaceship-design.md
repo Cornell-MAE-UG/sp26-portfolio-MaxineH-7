@@ -3,10 +3,10 @@ layout: project
 title: Nutcracker
 description: Homework 4 Problem 2
 technologies: [None]
-image: /assets/images/Nutcrackerpic.jpg
+image: /assets/images/Nutcrackerpic.jpeg
 ---
 
-![Descriptive alt text](images/Nutcrackerpic.png)
+![Descriptive alt text](images/Nutcrackerpic.jpeg)
 
 The goal for this project was to develop a nutcracker that would be capable of cracking a macadamia nut using only grip strength. This would require a device capable of multiplying the force applied by the hand enough to crush the nut.
 
