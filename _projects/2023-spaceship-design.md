@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker
 description: Homework 4 Problem 2
 technologies: [None]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/Nutcrackerpic.jpg
 ---
 
 
