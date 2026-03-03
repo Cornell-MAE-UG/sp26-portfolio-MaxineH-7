@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Maxine Hurst
 description              : Maxine Hurst - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "" /sp26-portfolio-MaxineH-7
 
 # Theme and Style
 theme: jekyll-theme-minimal
